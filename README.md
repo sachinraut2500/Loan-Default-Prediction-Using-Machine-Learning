@@ -8,7 +8,7 @@ Predict whether a borrower will default on a loan using historical loan data.
 
 - Lending Club Loan Data (download separately)
 
----
+-----
 
 ## Run
 
